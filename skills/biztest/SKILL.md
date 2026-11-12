@@ -4,7 +4,7 @@ description: "Run real business tests for a focused set of recent code changes. 
 license: MIT
 metadata:
   author: hughluang
-  version: "1.3.1"
+  version: "1.5.1"
 ---
 
 # 业务测试
